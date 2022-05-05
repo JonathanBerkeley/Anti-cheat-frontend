@@ -1,0 +1,21 @@
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clancard {
+  width: 35%;
+  background-color: #131820;
+  margin-top: 3em;
+}
+
+.underlinefull {
+  width: 90%;
+  border-bottom: 3px solid #2a3343;
+}
+
+.rightalign {
+  float: right;
+  text-align: right;
+}
