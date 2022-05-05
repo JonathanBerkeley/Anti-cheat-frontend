@@ -1,6 +1,6 @@
 {
-  "name": "react-api-frontend",
-  "version": "0.3.2",
+  "name": "anti-cheat-frontend",
+  "version": "0.3.3",
   "private": true,
   "dependencies": {
     "@fontsource/roboto": "^4.5.1",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonathanBerkeley/react-api-frontend.git"
+    "url": "git+https://github.com/JonathanBerkeley/Anti-cheat-frontend.git"
   },
   "keywords": [
     "node.js",
@@ -37,7 +37,7 @@
   "author": "Jonathan Berkeley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JonathanBerkeley/react-api-frontend/issues"
+    "url": "https://github.com/JonathanBerkeley/Anti-cheat-frontend/issues"
   },
   "eslintConfig": {
     "extends": [

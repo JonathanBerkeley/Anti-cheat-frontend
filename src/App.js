@@ -12,13 +12,6 @@ import Navbar from './components/Navbar'
 
 // Pages
 import Home from './pages/Home'
-import Player from './pages/Player'
-import Clan from './pages/Clan'
-import Signup from './pages/Account/Signup'
-import Login from './pages/Account/Login'
-import Account from './pages/Account/Account'
-import Admin from './pages/Admin'
-import Screencast from './pages/Screencast'
 import PageNotFound from './pages/404'
 
 const customTheme = deepmerge(theme, {
@@ -56,20 +49,6 @@ const App = () => {
                 <Routes>
                     <Route path="/"
                         element={<Home />} />
-                    <Route path="/player/:id"
-                        element={<Player />} />
-                    <Route path="/clan/:id"
-                        element={<Clan />} />
-                    <Route path="/signup"
-                        element={<Signup onAuthenticated={onAuthenticated} authenticated={authenticated} />} />
-                    <Route path="/login"
-                        element={<Login onAuthenticated={onAuthenticated} authenticated={authenticated} />} />
-                    <Route path="/account"
-                        element={<Account onAuthenticated={onAuthenticated} authenticated={authenticated} />} />
-                    <Route path="/admin"
-                        element={<Admin onAuthenticated={onAuthenticated} authenticated={authenticated} />} />
-                    <Route path="/screencast"
-                        element={<Screencast />} />
                     <Route path="*"
                         element={<PageNotFound />} />
                 </Routes>

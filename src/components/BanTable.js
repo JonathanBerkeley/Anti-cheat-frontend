@@ -12,8 +12,8 @@ Config.headers = {
     "response": "embed"
 }
 
-// Displays leaderboard of players sorted by XP
-const Leaderboard = () => {
+// Table displaying banned players
+const BanTable = () => {
     const [players, setPlayers] = useState(null)
     const [playerCount, setPlayerCount] = useState(null)
     const [lastPage, setPage] = useState(1)
@@ -133,4 +133,4 @@ const newURL = page => {
 }
 //#endregion
 
-export default Leaderboard
+export default BanTable

@@ -1,14 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-# React API Frontend
-Version 0.3.2    
-Frontend for a videogame database    
-
-## Former domains (No longer hosted)     
-Frontend: https://mainuser.dev    
-Backend: https://api.mainuser.dev    
-Swagger (unstable): https://mainuser.dev/swagger/dist/index.html    
-API Docs: https://github.com/JonathanBerkeley/advjs-api-backend#get-requests    
+# Anti-cheat frontend
+Version 0.3.3    
+Frontend for an anti-cheat ban database    
 
 # Project styleguide
 
