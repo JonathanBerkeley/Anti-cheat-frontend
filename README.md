@@ -4,6 +4,8 @@
 Version 0.3.3    
 Frontend for an anti-cheat ban database    
 
+(Unfinished)     
+
 # Project styleguide
 
 ### General
