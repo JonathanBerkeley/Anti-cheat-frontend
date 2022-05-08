@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 # Anti-cheat frontend
 Version 0.3.3    
-Frontend for an anti-cheat ban database    
+Frontend template for an anti-cheat ban database    
 
 (Unfinished)     
 
