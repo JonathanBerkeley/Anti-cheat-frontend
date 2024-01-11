@@ -1,6 +1,6 @@
 # Anti-cheat frontend
 Version 0.3.3    
-Frontend template for an anti-cheat ban database Unfinished)     
+Frontend template for an anti-cheat ban database (Unfinished)     
 
 Made as part of the [Quack](https://github.com/JonathanBerkeley/Quack) project
 
